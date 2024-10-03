@@ -22,8 +22,8 @@ const main = async function () {
     //
     // Docs: https://docs.story.foundation/docs/ipa-metadata-standard
     const ipMetadata: IpMetadata = client.ipAsset.generateIpMetadata({
-        title: 'My IP Asset',
-        description: 'Test IP asset by ZunXBT',
+        title: 'Nhathong',
+        description: 'Test IP asset by Nhathong',
         watermarkImg: 'https://picsum.photos/200',
         attributes: [
             {
